@@ -1,4 +1,4 @@
-# Laptop Dataset Analysis and Classification
+# Laptop Data Mining Project
 This project analyzes laptop data to predict price ranges and identify patterns in laptop configurations.
 
 ## Project Overview
